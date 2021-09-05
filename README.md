@@ -28,7 +28,7 @@ Esta va a ser mi biblioteca personal para artículos, libros y demás
 - Guerras Recicladas y En La Boca del Lobo. Libros sobre mercenarios y el cartel de Cali.
 - [When democracy ails, magic thrives](https://bostonreview.net/politics/samuel-clowes-huneke-when-democracy-ails-magic-thrives)
 - 1421: El año en que China descubrió el mundo
-- [Historias literatura medieval. Green Roger Lancelyn](https://b-ok.lat/g/Green Roger Lancelyn)
+- [Historias literatura medieval. Green Roger Lancelyn](https://b-ok.lat/g/Green-Roger-Lancelyn)
 
 ### filosofía
 
