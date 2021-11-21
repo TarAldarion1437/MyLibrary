@@ -4,6 +4,8 @@ Esta va a ser mi biblioteca personal para artículos, libros y demás
   - [Filosofía](#filosofía)
     - [Introducción](#introducción)
   - [Neuroscience](#neurociencia)
+  - [Historia] (#Historia)
+
 
 - [Papers](#papers)
 
@@ -41,6 +43,14 @@ Esta va a ser mi biblioteca personal para artículos, libros y demás
 - Ethic Spinoza
 - Holderlin
 - LucretiusOn the nature of things
+
+### Historía
+
+- La destrucción de las indias
+- El genocidio como práctica social
+- Catastrofe demografica indigena german colmenares
+- Tratado sobre las justas causas de la guerra contra los indios
+
 
 ### neurociencia
 - Dabrowski, K. (1972). Psychoneurosis is not an illness. London: Gryf. 
