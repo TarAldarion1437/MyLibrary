@@ -4,7 +4,7 @@ Esta va a ser mi biblioteca personal para artículos, libros y demás
   - [Filosofía](#filosofía)
     - [Introducción](#introducción)
   - [Neuroscience](#neurociencia)
-  - [Historia] (#Historia)
+  - [Historia](#Historia)
 
 
 - [Papers](#papers)
@@ -44,8 +44,7 @@ Esta va a ser mi biblioteca personal para artículos, libros y demás
 - Holderlin
 - LucretiusOn the nature of things
 
-### Historia
-
+### historia
 - La destrucción de las indias
 - El genocidio como práctica social
 - Catastrofe demografica indigena german colmenares
