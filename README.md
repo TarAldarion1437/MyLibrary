@@ -44,7 +44,7 @@ Esta va a ser mi biblioteca personal para artículos, libros y demás
 - Holderlin
 - LucretiusOn the nature of things
 
-### Historía
+### Historia
 
 - La destrucción de las indias
 - El genocidio como práctica social
